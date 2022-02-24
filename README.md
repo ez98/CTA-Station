@@ -1,6 +1,9 @@
 # CTA-Station
 Individual Course Project
 
+(If you're an IIT student trying to cheat youre way out of this project, don't. Learn how to code)
+
+
 Allows users to manage CTA Stations in Chicago.
 Add/Delete/Modify/Search for Stations.
 Search for nearest station given users location.
